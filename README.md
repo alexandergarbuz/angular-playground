@@ -1,4 +1,6 @@
-# AngularPlayground
+# Angular Playground
+
+This is a playground project for learning Angular.
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.12.
 
