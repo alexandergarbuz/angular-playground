@@ -1,5 +1,5 @@
 # Stage 1: Build the app (optional if you already built it)
-FROM node:18-alpine AS builder
+FROM node:20-alpine AS builder
 WORKDIR /app
 COPY . .
 RUN npm install && npm run build -- --configuration production

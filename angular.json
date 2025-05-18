@@ -49,6 +49,7 @@
                   "maximumError": "8kB"
                 }
               ],
+              "outputPath": "dist/angular-playground/browser",
               "outputHashing": "all"
             },
             "development": {
